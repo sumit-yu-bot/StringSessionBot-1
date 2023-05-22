@@ -22,18 +22,15 @@ class Data:
     ]
 
     START = """
-Hey {}
+ʜᴇʏ {}
 
-Welcome to {}
+ᴡᴇʟᴄᴏᴍᴇ {}
+•━━━━━━━•⊰᯽⊱•━━━━━━━•
+➻ ɪ'ᴍ ʜᴇʀᴇ ғᴏʀ ɢᴇɴᴇʀᴀᴛɪɴɢ ᴛʜᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴs 
+➻ ᴜꜱᴇ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ
+•━━━━━━━•⊰᯽⊱•━━━━━━━•
+❅ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @thebotstatus
 
-If you don't trust this bot, 
-1) stop reading this message
-2) delete this chat
-
-Still reading?
-You can use me to generate pyrogram (even version 2) and telethon string session. Use below buttons to learn more !
-
-By @StarkBots
     """
 
     HELP = """
@@ -48,15 +45,14 @@ By @StarkBots
 """
 
     ABOUT = """
-**About This Bot** 
+**ᴀʙᴏᴜᴛ ᴍᴇ** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @StarkBots
+➻ᴛʜɪꜱ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛʀɪɴɢ  ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+ꜱᴏᴜʀᴄᴇ: [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
 
-Framework : [Pyrogram](https://docs.pyrogram.org)
+</>ᴠɪsɪᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ] (https://t.me/twinkleXstars) ғᴏʀ ᴍᴏʀᴇ...
 
-Language : [Python](https://www.python.org)
+ᴅᴇᴠᴇʟᴏᴘᴇʀ - [ꜱᴜᴍɪᴛ🥀] (https://t.me/ll_sumit_ll)
 
-Developer : @StarkAgent
     """
