@@ -2,6 +2,7 @@ from pyrogram.types import InlineKeyboardButton
 
 
 class Data:
+    START_IMG = "https://graph.org/file/1261d63683006137d6bdd.jpg"
     generate_single_button = [InlineKeyboardButton("🫧ꜱᴛᴀʀᴛ ꜱᴇꜱꜱɪᴏɴ🫧", callback_data="generate")]
 
     home_buttons = [
