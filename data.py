@@ -2,23 +2,23 @@ from pyrogram.types import InlineKeyboardButton
 
 
 class Data:
-    generate_single_button = [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+    generate_single_button = [InlineKeyboardButton("🫧ꜱᴛᴀʀᴛ ꜱᴇꜱꜱɪᴏɴ🫧", callback_data="generate")]
 
     home_buttons = [
         generate_single_button,
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]
+        [InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data="home")]
     ]
 
     generate_button = [generate_single_button]
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/ab_sumit")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ", callback_data="help"),
+            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("ᴡᴀɴɴᴀ ꜱᴇᴇ ᴍᴏʀᴇ ʙᴏᴛ", url="https://t.me/thebotstaus")],
     ]
 
     START = """
@@ -26,9 +26,9 @@ class Data:
 
 ᴡᴇʟᴄᴏᴍᴇ {}
 •━━━━━━━•⊰᯽⊱•━━━━━━━•
-➻ ɪ'ᴍ ʜᴇʀᴇ ғᴏʀ ɢᴇɴᴇʀᴀᴛɪɴɢ ᴛʜᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴs 
+➻ ɪ'ᴍ ʜᴇʀᴇ ғᴏʀ ɢᴇɴᴇʀᴀᴛɪɴɢ ᴛʜᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴs \n\n
 ➻ ᴜꜱᴇ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ
-•━━━━━━━•⊰᯽⊱•━━━━━━━•
+•━━━━━━━•⊰᯽⊱•━━━━━━━• \n\n
 ❅ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @thebotstatus
 
     """
@@ -49,7 +49,7 @@ class Data:
 
 ➻ᴛʜɪꜱ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛʀɪɴɢ  ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
 
-ꜱᴏᴜʀᴄᴇ: [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+ꜱᴏᴜʀᴄᴇ: [Click Here](https://t.me/thebotstatus)
 
 </>ᴠɪsɪᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ] (https://t.me/twinkleXstars) ғᴏʀ ᴍᴏʀᴇ...
 
